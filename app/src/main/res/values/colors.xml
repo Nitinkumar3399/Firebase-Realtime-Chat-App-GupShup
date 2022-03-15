@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#450c3a</color>
+    <color name="colorPrimaryDark">#390A30</color>
+    <color name="colorAccent">#b9974e</color>
+    <color name="red">#e91e63</color>
+    <color name="gray">#A2A2A2</color>
+    <color name="linkColor">#2196F3</color>
+    <color name="chat_background">#ededed</color>
+
+</resources>

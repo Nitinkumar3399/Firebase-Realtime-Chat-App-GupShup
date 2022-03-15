@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuForward"
+        android:icon="@drawable/ic_forward"
+        android:title="@string/forward"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mnuDelete"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/delete"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mnuShare"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mnuDownload"
+        android:icon="@drawable/ic_file_download"
+        android:title="@string/download"
+        app:showAsAction="ifRoom" />
+</menu>
