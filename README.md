@@ -1,16 +1,32 @@
-### GupShup-Chat-Application
+## GupShup-Chat-Application
 * Firebase Advanced Real Time Chat App in Android Studio.  
 * Online Chatting Application (Android) || Messaging App || Firebase
 
-You are an android developer and you have not developed any android chat application yet? Then you are missing the real fun in development. Another aspect of chat apps is real time messaging, which is the core of any real time application.
+Description :
 
-You might have used and observed many other android chat apps and would have wished to have your own. Right ?
+### App Demo Link Given Below ⬇
+##### Click on image
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Jvs1UZRdzow
+" target="_blank"><img src="http://img.youtube.com/vi/Jvs1UZRdzow/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
-So why are you waiting? Get dive into my course of building impressive full-stack android chat app Gup-Shup Android Studio with Firebase.
+#### _Features :-_
+* _Easy  Layout._  
+* _Generate Invoices and receipts PDF Support_  
+* _Unique bill numbers_  
+* _Functionality to create invoice item each time or choose from database._  
+* _Functionality to choose  TAX._  
+* _Generate downloadable PDf  files_  
+* _And lot more..._
 
-This course is a complete guide for you in developing a feature-rich android chat app!
+#### _Technology, Tools and Plugin Used :-_
+* _Android Studio_  
+* _java_  
+* _Windows 10_  
 
-Here's what we will cover:
+If you want to try this app then apk is given above in source code
+by name [**`app-debug.apk`**]  
+You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/app-debug.apk) then install and enjoy this app..🙂
 
 Creating a complete chat application with Android Studio and Firebase from scratch
 
@@ -31,10 +47,6 @@ User authentication with Firebase
 Form validation for our Login and Register forms
 
 Firebase ML Kit
-
-And more!
-
-What will you be learning in making Gupshup?
 
 Throughout this course of making Gup Shup app (chit-chat app), we'll be building a live chat app, where users will be able to create user, modify his/her profile, send friend request to others on Gupshup, to send messages to other users, send media files, see when other users are typing and get notifications about new messages.
 
@@ -80,12 +92,6 @@ Firebase Cloud Messaging
 
 Firebase ML Kit
 
-and Many More....
-
-Wouldn’t that be a great learning and enriching experience in Android development?
-
-Do join me. I am excited to share my experience
-
 
 
 What you’ll learn
@@ -94,7 +100,6 @@ You will be able to create dynamic apps which can save data and files from serve
 Firebase Cloud Messaging (FCM) for real time Push Notifications
 You will master in Firebase Authentication, Firebase Database, Firebase File Store, Push Notifications and many more
 Introduction to Firebase ML Kit
-Are there any course requirements or prerequisites?
 Basic Knowledge of Android Application development using Java is required
 Android Studio 3.6 or higher is required
 Who this course is for:
