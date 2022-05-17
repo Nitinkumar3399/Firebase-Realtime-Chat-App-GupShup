@@ -10,26 +10,33 @@
 " target="_blank"><img src="http://img.youtube.com/vi/Jvs1UZRdzow/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
-#### _Features :_
-* _Easy Layout._
+#### _Features for learners/Developers:_
+* _Easy Layout with Optimized Splash Screen._
+* _Attractive UI design._
 * _Form validation for our Login and Register forms._
+* _FORGOT Password or RESET Password mechanism with Firebase from outside of the app(with proper validation)._
+* _Change Password mechanism from inside of the application._ 
 * _User authentication with Firebase._
-* _Tracking / showing when users are online / offline and typing._
+* _Tracking/showing when users are Online / Offline Active Status and typing._
 * _Sending Direct Messages to other users in our chat._
 * _Notifications to display new message/friend request arrival using FCM._
 * _Uploading and displaying video messages using Firebase Storage._
 * _Uploading and displaying image messages using Firebase Storage._
 * _Sending and receiving messages instantly with the real-time Firebase Database._
+* _Deleting Text, Image and video Messages from chat conversation Activity._
 * _Creating a complete chat application with Android Studio and Firebase from scratch._
+* _Working with different types of Libraries._
+* _Check Internet Connectivity._
+* _Working with ```Last Messaege Time``` and ```Last Message``` on Chat Time._
+
+If you want to try this app then apk is given above in source code
+by name [**`App-Debug-GupShup.apk`**]  
+You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-App-GupShup/blob/master/App-Debug-GupShup.apk) then install and enjoy this app..🙂
 
 #### _Technology Used :_
 * _Android Studio_  
 * _Java_  
 * _Windows 10_  
-
-If you want to try this app then apk is given above in source code
-by name [**`App-Debug-GupShup.apk`**]  
-You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-App-GupShup/blob/master/App-Debug-GupShup.apk) then install and enjoy this app..🙂
 
 ####  _Plugins Used :_
 * Intent
