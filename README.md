@@ -50,7 +50,7 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 
  Intro Slider                               | Home                                        | Profile Settings 			                
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
- <img src="App-Screenshots/screen_1.png" width="280"> | <img src="App-Screenshots/screen_2.png" width="280">  |<img src="App-Screenshots/screen_3.png" width="280">
+ <img src="App-Screenshots/screen_1.png" width="300"> | <img src="App-Screenshots/screen_2.png" width="300">  |<img src="App-Screenshots/screen_3.png" width="300">
 
  Search a person                           | Friend List                             | When someone send request                    
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
