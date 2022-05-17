@@ -47,12 +47,7 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:|:-------------------------------------:
  <img src="myFiles/search.png" width="200">| <img src="myFiles/friends.png" width="200">|<img src="myFiles/n_new_request.png" width="200">|<img src="myFiles/12.chats.png" width="200">
 
-#### _Technology Used :_
-* _Android Studio_  
-* _Java_  
-* _Windows 10_  
-
-####  _Plugins Used :_
+####  _Technology and Plugins Used :_
 * Intent
 * Customized User Interface Design
 * Working with Dependencies in Android Gradle
