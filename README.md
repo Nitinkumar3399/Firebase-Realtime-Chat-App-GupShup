@@ -48,21 +48,21 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 
 #### Some Screenshots of this app
 
- Intro Slider                               | Home                                        | Profile Settings 			                    | Friend Request UI 
-:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:|:----------------------------------------:
- <img src="App-Screenshots/screen_1.png" width="250"> | <img src="App-Screenshots/screen_2.png" width="250">  |<img src="App-Screenshots/screen_3.png" width="250">|<img src="App-Screenshots/screen_4.png" width="250">
+ Intro Slider                               | Home                                        | Profile Settings 			                
+:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/screen_1.png" width="250"> | <img src="App-Screenshots/screen_2.png" width="250">  |<img src="App-Screenshots/screen_3.png" width="250">
 
- Search a person                           | Friend List                             | When someone send request                       | LIVE CHATTING in uMe
-:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:|:-------------------------------------:
- <img src="App-Screenshots/screen_5.png" width="250">| <img src="App-Screenshots/screen_6.png" width="250">|<img src="App-Screenshots/screen_7.png" width="250">|<img src="App-Screenshots/screen_8.png" width="250">
+ Search a person                           | Friend List                             | When someone send request                    
+:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/screen_4.png" width="250">| <img src="App-Screenshots/screen_5.png" width="250">|<img src="App-Screenshots/screen_6.png" width="250">
  
- Intro Slider                               | Home                                        | Profile Settings 			                    | Friend Request UI 
-:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:|:----------------------------------------:
- <img src="App-Screenshots/screen_9.png" width="250"> | <img src="App-Screenshots/screen_10.png" width="250">  |<img src="App-Screenshots/screen_11.png" width="250">|<img src="App-Screenshots/screen_12.png" width="250">
+ Intro Slider                               | Home                                        | Profile Settings 			                    
+:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/screen_7.png" width="250"> | <img src="App-Screenshots/screen_8.png" width="250">  |<img src="App-Screenshots/screen_9.png" width="250">
 
- Search a person                           | Friend List                             | When someone send request                       | LIVE CHATTING in uMe
-:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:|:-------------------------------------:
- <img src="App-Screenshots/screen_13.png" width="250">| <img src="App-Screenshots/screen_14.png" width="250">|<img src="App-Screenshots/screen_15.png" width="250">|<img src="App-Screenshots/screen_16.png" width="250">
+ Search a person                           | Friend List                             | When someone send request                      
+:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/screen_10.png" width="250">| <img src="App-Screenshots/screen_11.png" width="250">|<img src="App-Screenshots/screen_12.png" width="250">
  
 
 ####  _Technology and Plugins Used :_
