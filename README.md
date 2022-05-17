@@ -10,7 +10,7 @@
 " target="_blank"><img src="http://img.youtube.com/vi/Jvs1UZRdzow/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
-#### _Features for learners/Developers:_
+#### _Features for learners/Developers :_
 * _Easy Layout with Optimized ```Splash Screen```._
 * _Attractive UI design._
 * _Form validation for our Login and Register forms._
@@ -33,8 +33,19 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
 If you want to try this app then apk is given above in source code
 by name [**`App-Debug-GupShup.apk`**]  
-> _with full UI design_  
+> _With full UI design_  
+
 You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-App-GupShup/blob/master/App-Debug-GupShup.apk) then install and enjoy this app..🙂
+
+#### Some Screenshots of this app
+
+ Intro Slider                               | Home                                        | Profile Settings 			                    | Friend Request UI 
+:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:|:----------------------------------------:
+ <img src="myFiles/intro.png" width="200"> | <img src="myFiles/home_n.png" width="200">  |<img src="myFiles/my_profile.png" width="200">|<img src="myFiles/request_page.png" width="200">
+
+ Search a person                           | Friend List                             | When someone send request                       | LIVE CHATTING in uMe
+:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:|:-------------------------------------:
+ <img src="myFiles/search.png" width="200">| <img src="myFiles/friends.png" width="200">|<img src="myFiles/n_new_request.png" width="200">|<img src="myFiles/12.chats.png" width="200">
 
 #### _Technology Used :_
 * _Android Studio_  
