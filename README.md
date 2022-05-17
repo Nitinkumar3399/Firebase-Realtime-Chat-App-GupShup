@@ -50,7 +50,7 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 
  Intro Slider                               | Home                                        | Profile Settings 			                    | Friend Request UI 
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:|:----------------------------------------:
- <img src="App-Screenshots/screen_1.png" width="200"> | <img src="App-Screenshots/screen_1.png" width="200">  |<img src="App-Screenshots/screen_1.png" width="200">|<img src="App-Screenshots/screen_1.png" width="200">
+ <img src="App-Screenshots/s1.png" width="200"> | <img src="App-Screenshots/screen_1.png" width="200">  |<img src="App-Screenshots/screen_1.png" width="200">|<img src="App-Screenshots/screen_1.png" width="200">
 
  Search a person                           | Friend List                             | When someone send request                       | LIVE CHATTING in uMe
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:|:-------------------------------------:
