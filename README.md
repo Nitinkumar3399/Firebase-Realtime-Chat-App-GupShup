@@ -48,19 +48,19 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 
 #### Some Screenshots of this app
 
- Intro Slider                               | Home                                        | Profile Settings 			                
+ Splash Screen                               | Sign-Up/Register                                        | Sign in/Login 			                
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
- <img src="App-Screenshots/screen_1.png" width="300"> | <img src="App-Screenshots/screen_2.png" width="300">  |<img src="App-Screenshots/screen_3.png" width="300">
+ <img src="App-Screenshots/screen_1.png" width="280"> | <img src="App-Screenshots/screen_2.png" width="280">  |<img src="App-Screenshots/screen_3.png" width="280">
 
- Search a person                           | Friend List                             | When someone send request                    
+ Home/Friend List                           | When Someone Send Friend Request                             | Find Friends                    
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_4.png" width="280">| <img src="App-Screenshots/screen_5.png" width="280">|<img src="App-Screenshots/screen_6.png" width="280">
  
- Intro Slider                               | Home                                        | Profile Settings 			                    
+ Update Email                               | Change Password From Inside The App                                        | Send Text/Image/Video Messages 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_7.png" width="280"> | <img src="App-Screenshots/screen_8.png" width="280">  |<img src="App-Screenshots/screen_9.png" width="280">
 
- Search a person                           | Friend List                             | When someone send request                      
+ Link Highlighted Different From Normal Text                           | Send Emojis                             | When someone send request                      
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_10.png" width="280">| <img src="App-Screenshots/screen_11.png" width="280">|<img src="App-Screenshots/screen_12.png" width="280">
  
