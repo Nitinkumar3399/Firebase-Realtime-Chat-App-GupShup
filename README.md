@@ -11,13 +11,13 @@
 alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
 #### _Features for learners/Developers:_
-* _Easy Layout with Optimized Splash Screen._
+* _Easy Layout with Optimized ```Splash Screen```._
 * _Attractive UI design._
 * _Form validation for our Login and Register forms._
-* _FORGOT Password or RESET Password mechanism with Firebase from outside of the app(with proper validation)._
+* _```FORGOT Password or RESET Password``` mechanism with Firebase from outside of the app (with proper validation)._
 * _Change Password mechanism from inside of the application._ 
 * _User authentication with Firebase._
-* _Tracking/showing when users are Online / Offline Active Status and typing._
+* _Tracking/showing active status when users are ```Online / Offline``` and ```typing```._
 * _Sending Direct Messages to other users in our chat._
 * _Notifications to display new message/friend request arrival using FCM._
 * _Uploading and displaying video messages using Firebase Storage._
@@ -25,7 +25,7 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 * _Sending and receiving messages instantly with the real-time Firebase Database._
 * _Deleting Text, Image and video Messages from chat conversation Activity._
 * _Creating a complete chat application with Android Studio and Firebase from scratch._
-* _Working with different types of Libraries._
+* _Working with different types of Libraries like ```Volley``` and ```Glide```._
 * _Check Internet Connectivity._
 * _Working with ```Last Messaege Time``` and ```Last Message``` on Chat Time._
 
