@@ -28,7 +28,7 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 * _Working with different types of Libraries like ```Volley``` and ```Glide```._
 * _Check Internet Connectivity._
 * _Working with ```Last Messaege Time``` and ```Last Message``` on Chat Time._
-* _Working With Firebase AUTHENTICATION, REALTIME DATABASE, STORAGE & FIREBASE CLOUD MESSAGING (FCM)._
+* _Working With ```Firebase Authentication```, ```Realtime Database```, ```Realtime Storage``` & ```Firebase Cloud Messaging```(FCM)._
 
 
 If you want to try this app then apk is given above in source code
