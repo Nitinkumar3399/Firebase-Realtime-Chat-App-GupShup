@@ -68,6 +68,6 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 	* Firebase Cloud Messaging
 	* Firebase ML Kit
  
-**My Learnings** : You will be able to create dynamic apps which can save data and files from server. Firebase Cloud Messaging (FCM) for real time Push Notifications. Firebase Authentication, Firebase Database, Firebase File Store, Push Notifications and many more. Introduction to Firebase ML Kit.
+**My Learnings** : I am able to create dynamic apps which can save data and files from server. Firebase Cloud Messaging (FCM) for real time Push Notifications. Firebase Authentication, Firebase Database, Firebase File Store, Push Notifications and many more. Integration of Firebase ML Kit with our application.
 
 > _**GupShup by Nitin Kumar**_
