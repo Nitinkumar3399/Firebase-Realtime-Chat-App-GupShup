@@ -28,9 +28,12 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 * _Working with different types of Libraries like ```Volley``` and ```Glide```._
 * _Check Internet Connectivity._
 * _Working with ```Last Messaege Time``` and ```Last Message``` on Chat Time._
+* _Working With Firebase AUTHENTICATION, REALTIME DATABASE, STORAGE & FIREBASE CLOUD MESSAGING (FCM)._
+
 
 If you want to try this app then apk is given above in source code
 by name [**`App-Debug-GupShup.apk`**]  
+> _with full UI design_  
 You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-App-GupShup/blob/master/App-Debug-GupShup.apk) then install and enjoy this app..🙂
 
 #### _Technology Used :_
@@ -60,3 +63,5 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 	* Firebase ML Kit
  
 **My Learnings** : You will be able to create dynamic apps which can save data and files from server. Firebase Cloud Messaging (FCM) for real time Push Notifications. Firebase Authentication, Firebase Database, Firebase File Store, Push Notifications and many more. Introduction to Firebase ML Kit.
+
+> _**GupShup by Nitin Kumar**_
