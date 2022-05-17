@@ -56,15 +56,15 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_4.png" width="280">| <img src="App-Screenshots/screen_5.png" width="280">|<img src="App-Screenshots/screen_6.png" width="280">
  
- Update Email                               | Change Password From Inside The App                                        | Send Text/Image/Video Messages 			                    
+ Update Email                               | Change Password From Inside The Application                                        | Send Text/Image/Video Messages 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_7.png" width="280"> | <img src="App-Screenshots/screen_8.png" width="280">  |<img src="App-Screenshots/screen_9.png" width="280">
 
- Link Highlighted Different From Normal Text                           | Send Emojis                             | When someone send request                      
+ Link Highlighted Different From Normal Plain Text                           | Send Emojis                             | Long Press On Image Message To Select                       
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_10.png" width="280">| <img src="App-Screenshots/screen_11.png" width="280">|<img src="App-Screenshots/screen_12.png" width="280">
  
- Intro Slider                               | Home                                        | Profile Settings 			                    
+ Click On 3 Dot Have : Share/Download                               | Share Messages To The External                                        | Long Press On Plain Text Message To Select 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_13.png" width="280"> | <img src="App-Screenshots/screen_14.png" width="280">  |<img src="App-Screenshots/screen_15.png" width="280">
 
