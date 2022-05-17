@@ -72,7 +72,26 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_16.png" width="280">| <img src="App-Screenshots/screen_17.png" width="280">|<img src="App-Screenshots/s1.png" width="280"> 
  
+ Intro Slider                               | Home                                        | Profile Settings 			                    
+:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/s2.png" width="280"> | <img src="App-Screenshots/s3.png" width="280">  |<img src="App-Screenshots/s4.png" width="280">
+
+ Search a person                           | Friend List                             | When someone send request                      
+:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/s5.png" width="280">| <img src="App-Screenshots/s6.png" width="280">|<img src="App-Screenshots/s7.png" width="280">
  
+ Intro Slider                               | Home                                        | Profile Settings 			                    
+:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/s8.png" width="280"> | <img src="App-Screenshots/s9.png" width="280">  |<img src="App-Screenshots/s10.png" width="280">
+
+ Search a person                           | Friend List                             | When someone send request                      
+:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/s11.png" width="280">| <img src="App-Screenshots/s12.png" width="280">|<img src="App-Screenshots/s13.png" width="280"> 
+ 
+ Intro Slider                               | Home                                                  
+:------------------------------------------:|:-------------------------------------------:
+ <img src="App-Screenshots/s14.png" width="280"> | <img src="App-Screenshots/s15.png" width="280">  
+
 ####  _Technology and Plugins Used :_
 * Intent
 * Customized User Interface Design
