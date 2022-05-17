@@ -64,7 +64,15 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_10.png" width="280">| <img src="App-Screenshots/screen_11.png" width="280">|<img src="App-Screenshots/screen_12.png" width="280">
  
+ Intro Slider                               | Home                                        | Profile Settings 			                    
+:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/screen_13.png" width="280"> | <img src="App-Screenshots/screen_14.png" width="280">  |<img src="App-Screenshots/screen_15.png" width="280">
 
+ Search a person                           | Friend List                             | When someone send request                      
+:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
+ <img src="App-Screenshots/screen_16.png" width="280">| <img src="App-Screenshots/screen_17.png" width="280">|<img src="App-Screenshots/s1.png" width="280"> 
+ 
+ 
 ####  _Technology and Plugins Used :_
 * Intent
 * Customized User Interface Design
