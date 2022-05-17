@@ -25,8 +25,8 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 * _Windows 10_  
 
 If you want to try this app then apk is given above in source code
-by name [**`app-debug.apk`**]  
-You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/app-debug.apk) then install and enjoy this app..🙂
+by name [**`App-Debug-GupShup.apk`**]  
+You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-App-GupShup/blob/master/App-Debug-GupShup.apk) then install and enjoy this app..🙂
 
 Creating a complete chat application with Android Studio and Firebase from scratch
 
