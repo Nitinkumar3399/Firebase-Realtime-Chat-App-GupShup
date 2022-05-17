@@ -13,22 +13,26 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 #### _Features for learners/Developers :_
 * _Easy Layout with Optimized ```Splash Screen```._
 * _Attractive UI design._
-* _Form validation for our Login and Register forms._
+* _Form validation for our ```Login``` and ```Register or Sign-Up forms._
+* _```Automatic Login``` : Once login manually and always use without login while reopening of app._
 * _```FORGOT Password or RESET Password``` mechanism with Firebase from outside of the app (with proper validation)._
-* _Change Password mechanism from inside of the application._ 
-* _User authentication with Firebase._
-* _Tracking/showing active status when users are ```Online / Offline``` and ```typing```._
-* _Sending Direct Messages to other users in our chat._
-* _Notifications to display new message/friend request arrival using FCM._
-* _Uploading and displaying video messages using Firebase Storage._
-* _Uploading and displaying image messages using Firebase Storage._
-* _Sending and receiving messages instantly with the real-time Firebase Database._
-* _Deleting Text, Image and video Messages from chat conversation Activity._
-* _Creating a complete chat application with Android Studio and Firebase from scratch._
+* _```Change Password``` mechanism from inside of the application._ 
+* _```User authentication``` with Firebase._
+* _```Profile Name, Email & Picture (Change/Remove) Update``` or Save from profile setting._
+* _Tracking/showing active status when users are ```Online / Offline``` and ```Typing...```._
+* _```Sending Direct Messages``` to other users in our chat._
+* _```Notifications``` to display ```new message/friend request``` arrival using FCM._
+* _Uploading and displaying ```video messages``` using Firebase Storage._
+* _Uploading and displaying ```image messages``` using Firebase Storage._
+* _```Sending and receiving messages``` instantly with the real-time Firebase Database._
+* _```Deleting Text```, ```Image``` and ```video Messages``` from chat conversation Activity._
+* _```Forward Text```, ```Image``` and ```video Messages``` to other users._
 * _Working with different types of Libraries like ```Volley``` and ```Glide```._
-* _Check Internet Connectivity._
+* _Check ```Internet``` Connectivity._
+* _```ML Smart Reply``` while Chatting in GupShup._
 * _Working with ```Last Messaege Time``` and ```Last Message``` on Chat Time._
 * _Working With ```Firebase Authentication```, ```Realtime Database```, ```Realtime Storage``` & ```Firebase Cloud Messaging```(FCM)._
+* _Swipe Refresh layout in Chat conversation to show more ```Last 30 messages```._
 
 
 If you want to try this app then apk is given above in source code
