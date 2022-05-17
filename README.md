@@ -4,13 +4,13 @@
 
 **Description** : Creating a Realtime Chat app using Firebase in Android project, where users will be able to create user, modify his/her profile, send friend request to others on Gupshup, to send messages to other users, send media files, see when other users are typing and get notifications about new messages.
 
-### App Demo Link Given Below ⬇
+### Complete App Demo Given Below ⬇
 ##### Click on image
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Jvs1UZRdzow
 " target="_blank"><img src="http://img.youtube.com/vi/Jvs1UZRdzow/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
-#### _Features for learners/Developers :_
+#### _Features For Learners/Developers :_
 * _Easy Layout with Optimized ```Splash Screen```._
 * _Attractive UI design._
 * _Form validation for our ```Login``` and ```Register or Sign-Up``` forms._
@@ -20,7 +20,7 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 * _```User authentication``` with Firebase._
 * _```Profile Name, Email & Picture (Change/Remove) Update``` or Save from profile setting._
 * _```Sending Direct Messages``` to other users in our chat._
-* _```Notifications``` to display ```new message/friend request``` arrival using FCM._
+* _Send/Receive ```Notifications``` to display ```New message/Friend Request ( Denial/Accepted )``` arrival using FCM._
 * _Uploading and displaying ```video messages``` using Firebase Storage._
 * _Uploading and displaying ```image messages``` using Firebase Storage._
 * _```Sending and receiving messages``` instantly with the real-time Firebase Database._
@@ -33,7 +33,7 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 * _Working with different types of Libraries like ```Volley``` and ```Glide```._
 * _Check ```Internet``` Connectivity._
 * _```Unread Count``` of Messages._
-* _Working with ```Last Messaege Time``` and ```Last Message``` on Chat Time._
+* _Showing ```Last Messaege Time``` and ```Last Message``` on Chat list._
 * _Tracking/showing active status when users are ```Online / Offline``` and ```Typing...```._
 * _```ML Smart Reply``` while Chatting in GupShup._
 * _```Swipe Refresh Layout``` in Chat conversation to show more ```Last 30 messages```._
