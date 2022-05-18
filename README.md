@@ -4,7 +4,7 @@
 
 **Description** : Creating a Realtime Chat app using Firebase in Android project, where users will be able to create user, modify his/her profile, send friend request to others on Gupshup, to send messages to other users, send media files, see when other users are typing and get notifications about new messages.
 
-### Complete App Demo Given Below ⬇
+### Complete App Demo Video Given Below ⬇
 ##### Click on image
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Jvs1UZRdzow
 " target="_blank"><img src="http://img.youtube.com/vi/Jvs1UZRdzow/0.jpg" 
@@ -64,13 +64,13 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_10.png" width="280">| <img src="App-Screenshots/screen_11.png" width="280">|<img src="App-Screenshots/screen_12.png" width="280">
  
- Click On 3 Dot Have : Share/Download                               | Share Messages To The External                                        | Long Press On Plain Text Message To Select 			                    
+ Click On 3 Dot Have : Share/Download Option                               | Share Messages To The External                                        | Delete/Share/Forward Options 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_13.png" width="280"> | <img src="App-Screenshots/screen_14.png" width="280">  |<img src="App-Screenshots/screen_15.png" width="280">
 
- Search a person                           | Friend List                             | When someone send request                      
+ Forward Activity : Select One User                           | Reset Password From Outside The Application                             | Reset Password Details Send On Email                      
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
- <img src="App-Screenshots/screen_16.png" width="280">| <img src="App-Screenshots/screen_17.png" width="280">|<img src="App-Screenshots/s1.png" width="280"> 
+ <img src="App-Screenshots/screen_16.png" width="280">| <img src="App-Screenshots/screen_17.png" width="280">|<img src="App-Screenshots/s12.png" width="280"> 
  
  Intro Slider                               | Home                                        | Profile Settings 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
@@ -84,9 +84,9 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/s8.png" width="280"> | <img src="App-Screenshots/s9.png" width="280">  |<img src="App-Screenshots/s10.png" width="280">
 
- Search a person                           | Friend List                             | When someone send request                      
+ Search a person                           | Notification of New Message                             | When someone send request                      
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
- <img src="App-Screenshots/s11.png" width="280">| <img src="App-Screenshots/s12.png" width="280">|<img src="App-Screenshots/s13.png" width="280"> 
+ <img src="App-Screenshots/s11.png" width="280">| <img src="App-Screenshots/s1.png" width="280">|<img src="App-Screenshots/s13.png" width="280"> 
  
  Intro Slider                               | Home                                                  
 :------------------------------------------:|:-------------------------------------------:
