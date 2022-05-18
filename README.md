@@ -4,7 +4,7 @@
 
 **Description** : Creating a Realtime Chat app using Firebase in Android project, where users will be able to create user, modify his/her profile, send friend request to others on Gupshup, to send messages to other users, send media files, see when other users are typing and get notifications about new messages.
 
-### Complete App Demo Video Given Below ⬇
+#### Complete App Demo Video Given Below ⬇
 ##### Click on image
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Jvs1UZRdzow
 " target="_blank"><img src="http://img.youtube.com/vi/Jvs1UZRdzow/0.jpg" 
