@@ -56,7 +56,7 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_4.png" width="280">| <img src="App-Screenshots/screen_5.png" width="280">|<img src="App-Screenshots/screen_6.png" width="280">
  
- Profile Setting : Update Email                               | Change Password From Profile Setting                                        | Send Text/Image/Video Messages 			                    
+ Profile Setting : Update Email                               | Profile Setting : Change Password                                        | Send Text/Image/Video Messages 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_7.png" width="280"> | <img src="App-Screenshots/screen_8.png" width="280">  |<img src="App-Screenshots/screen_9.png" width="280">
 
