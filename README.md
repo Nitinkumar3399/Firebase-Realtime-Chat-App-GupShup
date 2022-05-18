@@ -56,11 +56,11 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_4.png" width="280">| <img src="App-Screenshots/screen_5.png" width="280">|<img src="App-Screenshots/screen_6.png" width="280">
  
- Update Email                               | Change Password From Inside The Application                                        | Send Text/Image/Video Messages 			                    
+ Profile Setting : Update Email                               | Change Password From Profile Setting                                        | Send Text/Image/Video Messages 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_7.png" width="280"> | <img src="App-Screenshots/screen_8.png" width="280">  |<img src="App-Screenshots/screen_9.png" width="280">
 
- Link Highlighted Different From Normal Plain Text                           | Send Emojis                             | Long Press On Image Message To Select                       
+ Link Highlighted Different From Normal Plain Text                           | Send Emojis                             | Long Press On Image Message To Show Options                       
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_10.png" width="280">| <img src="App-Screenshots/screen_11.png" width="280">|<img src="App-Screenshots/screen_12.png" width="280">
  
@@ -76,7 +76,7 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/s13.png" width="280"> | <img src="App-Screenshots/s14.png" width="280">  |<img src="App-Screenshots/s4.png" width="280">
 
- Snack Bar : Download Successfully                           | Image In Notification Tray                             | New Message In Notification Area                      
+ Any Image/Video Download In Phone                           | Image In Notification Tray                             | New Message In Notification Area                      
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/s5.png" width="280">| <img src="App-Screenshots/s6.png" width="280">|<img src="App-Screenshots/s7.png" width="280">
  
