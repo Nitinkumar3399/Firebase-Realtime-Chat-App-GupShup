@@ -52,7 +52,7 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_1.png" width="280"> | <img src="App-Screenshots/screen_2.png" width="280">  |<img src="App-Screenshots/screen_3.png" width="280">
 
- Home/Friend List                           | When Someone Send Friend Request                             | Find Friends                    
+ Home/Friend List                           | When Someone Send Friend Request : Accept/Deny                             | Find Friends : Send Friend Request                    
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_4.png" width="280">| <img src="App-Screenshots/screen_5.png" width="280">|<img src="App-Screenshots/screen_6.png" width="280">
  
@@ -72,25 +72,25 @@ You can [Download APK](https://github.com/Nitinkumar3399/Firebase-Realtime-Chat-
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/screen_16.png" width="280">| <img src="App-Screenshots/screen_17.png" width="280">|<img src="App-Screenshots/s12.png" width="280"> 
  
- Intro Slider                               | Home                                        | Profile Settings 			                    
+ Reset Password Link Available In Email                               | Click on Link & Reset Your Password                                        | Attachment Icon : Gallery/Camera/Video 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
- <img src="App-Screenshots/s2.png" width="280"> | <img src="App-Screenshots/s3.png" width="280">  |<img src="App-Screenshots/s4.png" width="280">
+ <img src="App-Screenshots/s13.png" width="280"> | <img src="App-Screenshots/s14.png" width="280">  |<img src="App-Screenshots/s4.png" width="280">
 
- Search a person                           | Friend List                             | When someone send request                      
+ Snack Bar : Download Successfully                           | Image In Notification Tray                             | New Message In Notification Area                      
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/s5.png" width="280">| <img src="App-Screenshots/s6.png" width="280">|<img src="App-Screenshots/s7.png" width="280">
  
- Intro Slider                               | Home                                        | Profile Settings 			                    
+ Unread Count Of Messages                               | Profile Pic Update : Change/Remove                                        | Chat List Activity 			                    
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:
  <img src="App-Screenshots/s8.png" width="280"> | <img src="App-Screenshots/s9.png" width="280">  |<img src="App-Screenshots/s10.png" width="280">
 
- Search a person                           | Notification of New Message                             | When someone send request                      
+ Check Internet Connectivity                           | Notification of New Message                             | Open Image/Video in Full Screen Mode                      
 :-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:
- <img src="App-Screenshots/s11.png" width="280">| <img src="App-Screenshots/s1.png" width="280">|<img src="App-Screenshots/s13.png" width="280"> 
+ <img src="App-Screenshots/s11.png" width="280">| <img src="App-Screenshots/s1.png" width="280">|<img src="App-Screenshots/s2.png" width="280"> 
  
- Intro Slider                               | Home                                                  
+ Progress Bar : Image/Video Uploading in Progress                               | ML Smart Replies Or Smart Suggestions                                                  
 :------------------------------------------:|:-------------------------------------------:
- <img src="App-Screenshots/s14.png" width="280"> | <img src="App-Screenshots/s15.png" width="280">  
+ <img src="App-Screenshots/s3.png" width="280"> | <img src="App-Screenshots/s15.png" width="280">  
 
 ####  _Technology and Plugins Used :_
 * Intent
