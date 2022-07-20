@@ -1,3 +1,4 @@
+> ***GupShup By Nitin Kumar***
 ## GupShup-Chat-Application
 * Firebase Advanced Real Time Chat App in Android Studio.  
 * Online Chatting Application (Android) || Messaging App || Firebase
