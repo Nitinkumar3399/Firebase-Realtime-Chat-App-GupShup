@@ -3,7 +3,7 @@
 * Firebase Advanced Real Time Chat App in Android Studio.  
 * Online Chatting Application (Android) || Messaging App || Firebase
 
-**Description** : Creating a Realtime Chat app using Firebase in Android project, where users will be able to create user, modify his/her profile, send friend request to others on Gupshup, to send messages to other users, send media files, see when other users are typing and get notifications about new messages.
+**Description** : Creating a Realtime Chat app using Firebase in Android Studio, where users will be able to create user, modify his/her profile, send friend request to others on Gupshup, to send messages to other users, send media files, see when other users are typing and get notifications about new messages.
 
 ### Complete App Demo Video Given Below ⬇
 ##### Click on image
